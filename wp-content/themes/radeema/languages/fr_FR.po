@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-18 15:04+0100\n"
+"PO-Revision-Date: 2021-10-21 15:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "This page doesn't exist"
+msgstr "Cette page n'existe pas"
+
+#: 404.php:7
+msgid "Sorry, the page you are looking for could not be found"
+msgstr "Désolé, la page que vous cherchez est introuvable"
+
+#: 404.php:8
+msgid "Try to look for something else "
+msgstr "Essayez de chercher autre chose "
+
+#: 404.php:10
+msgid "Or you can return to our"
+msgstr "Ou vous pouvez retourner à notre"
+
+#: 404.php:10
+msgid "home page"
+msgstr "page d'accueil"
+
+#: 404.php:10
+msgid "or"
+msgstr "ou"
+
+#: 404.php:10
+msgid "contact us"
+msgstr "contactez nous"
+
+#: 404.php:10
+msgid "if you can't find what you are looking for"
+msgstr "si vous ne trouvez pas ce que vous cherchez"
+
+#: category.php:31 front-page.php:100 home.php:50 search.php:25
+#: template-parts/common/content-avis_alert.php:43
+#: template-parts/common/content-posts.php:22
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr "Commenter la navigation"
+
+#: comments.php:48
+msgid "Comments are closed"
+msgstr "Les commentaires sont fermés"
+
+#: footer.php:10
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: footer.php:31
+msgid "© All rights reserved Radeema 2021"
+msgstr "© Tous droits réservés Radeema 2021"
+
+#: footer.php:45 search.php:6
+msgid "Search"
+msgstr "Rechercher"
+
+#: front-page.php:132
+msgid "Show all gallery"
+msgstr "Afficher galerie"
+
+#: front-page.php:140
+msgid "Facebook"
+msgstr "Facebook"
+
+#: front-page.php:141
+msgid "RADEEMA page Official"
+msgstr "RADEEMA page Officielle"
+
+#: functions.php:50
+msgid "Top Menu"
+msgstr "Menu du haut"
+
+#: functions.php:51
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: functions.php:52
+msgid "Bottom Menu"
+msgstr "Menu du bas"
+
+#: inc/classes/custom_url_field.php:34
+msgid "Add downloadable files"
+msgstr "Ajouter des fichiers téléchargeables"
+
+#: inc/classes/theme-customizer.php:23
+msgid "Radeema Options"
+msgstr "Options Radeema"
+
+#: inc/classes/theme-customizer.php:26
+msgid "Allows you to customize settings for Theme."
+msgstr "Vous permet de personnaliser les paramètres du thème."
+
+#: inc/classes/theme-customizer.php:40
+msgid "Select categories to show in carousel"
+msgstr "Sélectionnez les catégories à afficher dans le carrousel"
+
+#: inc/classes/theme-customizer.php:41
+msgid "Using this option you can change categories shown in carousel"
+msgstr "En utilisant cette option, vous pouvez modifier les catégories affichées dans le carrousel"
+
+#: page-contactez-nous.php:17
+msgid "Incorrect verification"
+msgstr "Vérification incorrecte"
+
+#: page-contactez-nous.php:18
+msgid "The message was not sent. Try again"
+msgstr "Le message n'a pas été envoyé. Réessayer"
+
+#: page-contactez-nous.php:19
+msgid "Thank you! Your message has been sent"
+msgstr "Merci! Votre message a été envoyé"
+
+#: page-contactez-nous.php:55
+msgid "Contact us"
+msgstr "Contactez nous"
+
+#: page-contactez-nous.php:61
+msgid "Full name"
+msgstr "Nom et Prénom"
+
+#: page-contactez-nous.php:65
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+#: page-contactez-nous.php:67
+msgid "We'll never share your email with anyone else"
+msgstr "Nous ne partagerons jamais votre e-mail avec quelqu'un d'autre"
+
+#: page-contactez-nous.php:70
+msgid "Phone"
+msgstr "Téléphone"
+
+#: page-contactez-nous.php:74
+msgid "Object"
+msgstr "Objet"
+
+#: page-contactez-nous.php:80
+msgid "Message"
+msgstr "Message"
+
+#: page-contactez-nous.php:88
+msgid "repeat this number"
+msgstr "répéter ce numéro"
+
+#: page-contactez-nous.php:94
+msgid "Send"
+msgstr "Envoyer"
+
+#: page-galerie.php:26
+msgid "Gallery"
+msgstr "Galerie"
+
+#: template-parts/common/content-agenda.php:14
+msgid "AGENDA"
+msgstr "AGENDA"
+
+#: template-parts/common/content-avis_alert.php:25
+msgid "NOTICES AND ALERTS"
+msgstr "AVIS ET ALERTS"
+
+#: template-parts/common/content-files_upload.php:17
+msgid "Download"
+msgstr "Télécharger"
+
+#: template-parts/frontpage/content-carousel-ary.php:81
+#: template-parts/frontpage/content-carousel.php:65
+msgid "Previous"
+msgstr "Précédent"
+
+#: template-parts/frontpage/content-carousel-ary.php:85
+#: template-parts/frontpage/content-carousel.php:69
+msgid "Next"
+msgstr "Prochain"
+
+#: template-parts/frontpage/content-news.php:26
+msgid "News"
+msgstr "News"

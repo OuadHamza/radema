@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-18 14:58+0100\n"
+"PO-Revision-Date: 2021-10-18 15:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "This page doesn't exist"
+msgstr "هذه الصفحة غير موجودة"
+
+#: 404.php:7
+msgid "Sorry, the page you are looking for could not be found"
+msgstr "عذرا، تعذر العثور على الصفحة التي تبحث عنها"
+
+#: 404.php:8
+msgid "Try to look for something else "
+msgstr "حاول البحث عن شيء آخر "
+
+#: 404.php:10
+msgid "Or you can return to our"
+msgstr "أو يمكنك العودة إلى"
+
+#: 404.php:10
+msgid "home page"
+msgstr "الصفحة الرئيسية"
+
+#: 404.php:10
+msgid "or"
+msgstr "أو"
+
+#: 404.php:10
+msgid "contact us"
+msgstr "تواصل معنا"
+
+#: 404.php:10
+msgid "if you can't find what you are looking for"
+msgstr "إذا لم تتمكن من العثور على ما تبحث عنه"
+
+#: category.php:31 front-page.php:100 home.php:50 search.php:25
+#: template-parts/common/content-avis_alert.php:43
+#: template-parts/common/content-posts.php:22
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr "تصفح التعليقات"
+
+#: comments.php:48
+#, fuzzy
+msgid "Comments are closed"
+msgstr "التعليقات مغلقة"
+
+#: footer.php:10
+#, fuzzy
+msgid "Newsletter"
+msgstr "النشرة البريدية"
+
+#: footer.php:31
+msgid "© All rights reserved Radeema 2021"
+msgstr "© جميع الحقوق محفوظة راديما 2021"
+
+#: footer.php:45 search.php:6
+#, fuzzy
+msgid "Search"
+msgstr "بحث"
+
+#: front-page.php:132
+msgid "Show all gallery"
+msgstr "عرض الصور"
+
+#: front-page.php:140
+msgid "Facebook"
+msgstr "فايسبوك"
+
+#: front-page.php:141
+msgid "RADEEMA page Official"
+msgstr "راديما الصفحة الرئيسية"
+
+#: functions.php:50
+msgid "Top Menu"
+msgstr "القائمة العلوية"
+
+#: functions.php:51
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: functions.php:52
+msgid "Bottom Menu"
+msgstr "القائمة السفلى"
+
+#: inc/classes/custom_url_field.php:34
+msgid "Some Meta Box Headline"
+msgstr "ببيب"
+
+#: inc/classes/theme-customizer.php:23
+msgid "Radeema Options"
+msgstr "خيارات راديما"
+
+#: inc/classes/theme-customizer.php:26
+msgid "Allows you to customize settings for Theme."
+msgstr "يسمح لك بتخصيص إعدادات القالب. "
+
+#: inc/classes/theme-customizer.php:40
+msgid "Select categories to show in carousel"
+msgstr "إختر التصنيفات التي ستظهر على الشريط"
+
+#: inc/classes/theme-customizer.php:41
+msgid "Using this option you can change categories shown in carousel"
+msgstr "باستخدام هذا الخيار ، يمكنك تغيير الفئات المعروضة في الشريط "
+
+#: page-contactez-nous.php:17
+msgid "Incorrect verification"
+msgstr "التحقق غير الصحيح"
+
+#: page-contactez-nous.php:18
+msgid "The message was not sent. Try again"
+msgstr "لم يتم إرسال الرسالة. حاول مجددا"
+
+#: page-contactez-nous.php:19
+msgid "Thank you! Your message has been sent"
+msgstr "شكرا لك! تم ارسال رسالتك"
+
+#: page-contactez-nous.php:55
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+#: page-contactez-nous.php:61
+msgid "Full name"
+msgstr "الاسم بالكامل"
+
+#: page-contactez-nous.php:65
+msgid "Email address"
+msgstr "عنوان البريد الإلكتروني "
+
+#: page-contactez-nous.php:67
+msgid "We'll never share your email with anyone else"
+msgstr "لن نشارك بريدك الإلكتروني مع أي شخص آخر"
+
+#: page-contactez-nous.php:70
+msgid "Phone"
+msgstr "الهاتف"
+
+#: page-contactez-nous.php:74
+msgid "Object"
+msgstr "الموضوع"
+
+#: page-contactez-nous.php:80
+msgid "Message"
+msgstr "الرسالة"
+
+#: page-contactez-nous.php:88
+msgid "repeat this number"
+msgstr "كرر هذا الرقم"
+
+#: page-contactez-nous.php:94
+msgid "Send"
+msgstr "إرسال"
+
+#: page-galerie.php:26
+msgid "Gallery"
+msgstr "الصور"
+
+#: template-parts/common/content-agenda.php:14
+msgid "AGENDA"
+msgstr "حدث"
+
+#: template-parts/common/content-avis_alert.php:25
+msgid "NOTICES AND ALERTS"
+msgstr "الإشعارات والتنبيهات"
+
+#: template-parts/common/content-files_upload.php:17
+msgid "Download"
+msgstr "تحميل"
+
+#: template-parts/frontpage/content-carousel-ary.php:81
+#: template-parts/frontpage/content-carousel.php:65
+msgid "Previous"
+msgstr "السابق"
+
+#: template-parts/frontpage/content-carousel-ary.php:85
+#: template-parts/frontpage/content-carousel.php:69
+msgid "Next"
+msgstr "التالي"
+
+#: template-parts/frontpage/content-news.php:26
+msgid "News"
+msgstr "أخبار"
